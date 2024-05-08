@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier new",
+    monospace;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(180deg, #5806f1, #856ff5);
+  justify-content: center;
+  align-items: center;
+}
